@@ -16,6 +16,11 @@ html {
 
 .email__subject {
   font-weight: bold;
+  text-align: center;
+  border: none;
+  border-radius: 5px;
+  font-size: 20px;
+  background-color: #efefefb8;
 }
 
 .email__subject,
